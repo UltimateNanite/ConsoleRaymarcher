@@ -1,5 +1,5 @@
-# ConsoleRaymarcherr
-Little console raymarcher I made in a few days.
+# ConsoleRaymarcher
+Little console raymarcher I made in a few days. Software renderer, so it's pretty slow.
 
 # Dependencies
 - GLM
